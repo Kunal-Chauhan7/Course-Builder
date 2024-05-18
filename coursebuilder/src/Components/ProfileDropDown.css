@@ -1,0 +1,6 @@
+.dropdownmenu {
+    min-width: 200px;  
+    padding: 20px;     
+    border-radius: 15px;
+    border: 1px solid gray;
+}
