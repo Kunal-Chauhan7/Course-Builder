@@ -1,10 +1,10 @@
-import TitleBar from './Components/TitleBar';
 import './App.css';
+import MainComponent from './Components/MainComponent';
 
 function App() {
   return (
     <>
-    <TitleBar/>
+    <MainComponent/>
     </>
   );
 }
